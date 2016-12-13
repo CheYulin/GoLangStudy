@@ -1,2 +1,6 @@
 # GoLangStudy
-Try to understand why so many people do not like golang
+GoLang study for simplicity and efficiency.
+
+##Quick Start
+- [guidance](guidance)
+- [gocode - hello world](gocode)
